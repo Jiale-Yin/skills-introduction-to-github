@@ -1,5 +1,5 @@
 list for project
-        _1.learn flmm
+        _*1.learn flmm
     2.prove flmm in dopaanm paper  
     3.analysis last experiment
     4.do new experiment
