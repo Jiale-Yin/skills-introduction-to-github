@@ -1,3 +1,12 @@
+list for project
+    1.learn flmm
+    2.prove flmm in dopaanm paper
+    3.analysis last experiment
+    4.do new experiment
+    5.analysis new
+    this is proposal
+    0.all down:paper(record), poster and ppt
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2023/03/GettyImages-1127204610-1220x813.jpg)
 
 
