@@ -1,3 +1,7 @@
+'''
+print
+'''
+
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
