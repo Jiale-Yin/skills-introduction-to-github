@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.countrylife.co.uk/nature/whos-coos-are-whose-the-five-types-of-pigeon-youll-see-in-britain-253911))
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2023/03/GettyImages-1127204610-1220x813.jpg)
 
 
 
