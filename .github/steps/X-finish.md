@@ -6,7 +6,15 @@ big picture for my project: behavior link with neuron activity.
 <font color=Blue>I am not the mouse, I could not know his concious.  What I only know is behavior, we jump out the middle level of mind, from physics base directly to macroworld of mouse body.(atom, molecular-cell-tissue-*mind*-body movement) </font>
 
 
+In neuroscience field,we sense the ec5a have relationship in memory. 
 
+- collect real data
+- detect clue and generate pre-theory
+- target test which theory
+- test theory more branch
+- more evidence to fill theory details
+- develop theory
+- test all and predict future
 
 
 
