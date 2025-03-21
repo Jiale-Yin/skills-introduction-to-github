@@ -1,4 +1,16 @@
-list for project
+big picture for my project: behavior link with neuron activity.
+
+
+
+
+<font color=Blue>I am not the mouse, I could not know his concious.  What I only know is behavior, we jump out the middle level of mind, from physics base directly to macroworld of mouse body.(atom, molecular-cell-tissue-*mind*-body movement) </font>
+
+
+
+
+
+
+workflow for project
 - 1.learn flmm
 - 2.prove flmm in dopaanm paper  
 - 3.analysis last experiment
